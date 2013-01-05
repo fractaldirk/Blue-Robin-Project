@@ -1,0 +1,9 @@
+<br/>
+<h5>Let's have a look under the hood..</h5>
+<p>We all know that the real beautity of any software is the code itself. Blue Robin has been written in Ruby on Rails (famous from yellowpage, twitter and github). Ruby on Rails (RoR) is a framework which allows rails developers to contribute to any project since it has been written in a framework and therefore the folder structure is very similar to any other rails project.</p>
+
+<h5>How to join?</h5>
+<p>The code will be published on Github including a wiki page. On github any developer can join, download and deploy new versions. If you would like to know more about github, please go <%= link_to 'here', 'https://github.com/', :target => "_blank" %>. Their slogan is: "Build better software together", nuff said.</p>
+
+<h5>Ruby gems - Templates</h5>
+<p>The software is making use of gems which are libraries developed by the RoR community. To give an example, all the exporting excel templates are build on this gem: <%= link_to 'Randym Axls', 'https://github.com/randym/axlsx', :target => "_blank" %></p>
